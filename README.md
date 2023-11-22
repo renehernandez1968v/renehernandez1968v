@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renehernandez1968v
 - 👀 I’m interested in Big Data, IA, JavaScript
-- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 🌱 I’m currently learning JavaScript, HTML and CSS at Academlo CodeCamping
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me renehernandez1968v@gmail.com
 
